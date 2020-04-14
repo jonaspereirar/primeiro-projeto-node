@@ -1,6 +1,10 @@
 <h1 align="center">
   <br>
+<<<<<<< HEAD
   <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="800px">
+=======
+  <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="260px">
+>>>>>>> refs/remotes/origin/master
   <br>
   Style Rocketseat 🚀🚀🚀
   <br>
@@ -14,7 +18,11 @@
   ## 🚀 Instalação e execução
 
 1. Click em " Use this template";
+<<<<<<< HEAD
 2. Entre na pasta rodando `cd template-Nodejs-Typescript`;
+=======
+2. Entre na pasta rodando `template-Nodejs-Typescript`;
+>>>>>>> refs/remotes/origin/master
 3. Rode `yarn` para instalar as dependências;
 4. Rode `yarn dev:server` para iniciar o servidor.
 
