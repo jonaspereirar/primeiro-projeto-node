@@ -1,36 +1,55 @@
-<h1 align="center">
-  <br>
-<<<<<<< HEAD
-  <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="800px">
-=======
-  <img src="https://github.com/jonaspereirar/template-typescript/blob/master/Type and node.jpg?raw=true" width="260px">
->>>>>>> refs/remotes/origin/master
-  <br>
-  Style Rocketseat 🚀🚀🚀
-  <br>
-</h1>
-<p align="center">Template Typescript gerado a partir dos estudos com a Rocketseat 🎓</p>
+## 🚀 Iniciando back-end do app
 
-<p align="center">
-  <a href="#-instalacao-e-execução">Instalação e execução</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  </p>
+- [x] - Banco de dados
 
-  ## 🚀 Instalação e execução
+- [x] - Estratégias de abstração
 
-1. Click em " Use this template";
-<<<<<<< HEAD
-2. Entre na pasta rodando `cd template-Nodejs-Typescript`;
-=======
-2. Entre na pasta rodando `template-Nodejs-Typescript`;
->>>>>>> refs/remotes/origin/master
-3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn dev:server` para iniciar o servidor.
+- [x] - Conceitos Docker
 
-🚀🚀🚀O template está pronto para você iniciar sua aplicação! 🚀🚀🚀
+- [x] - Instalando Docker
 
-## Tools used
-Segue um arquivo .README.md com todos os procedimentos efetuados
-- editorconfig
-- ESLint
-- Prettier
-- |>Debug configured
+- [x] - Criando container do banco
+
+- [x] - Configurando TypeORM
+
+- [x] - Criando tabela de agendamentos
+
+- [x] - Criando model de agendamento
+
+- [x] - Repositório do TypeORM
+
+## 🚀 Cadastro de Usuários
+
+- [x] - Model e migration de usuários
+
+- [x] - Relacionamento nos models
+
+- [x] - Criação de registros
+
+- [x] - Criptografia de senha
+
+ ## 🚀 Autenticação
+
+- [x] - Conceitos de JWT
+
+- [x] - Validando credenciais
+
+- [x] - Gerando token JWT
+
+- [x] - Rotas autenticadas
+
+## 🚀 Upload de imagens
+
+- [x] - Upload de arquivos
+
+- [x] - Atualizando avatar
+
+- [x] - Servindo arquivos estáticos
+
+## 🚀 Tratando exceções
+
+- [x] - Criando classe de erro
+
+- [x] - Lidando com erros
+
+🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
