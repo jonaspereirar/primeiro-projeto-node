@@ -74,7 +74,7 @@
 
 - [x] - Injeção de dependências
 
-- [ ] - Usando controllers
+- [x] - Usando controllers
 
 ## 🚀 Testes e TDD
 
